@@ -32,22 +32,17 @@ sidebar:
       - item: Gaming
         link:
 
-      - item: Coding
-        link:
-
       - item: Cooking
         link:
+
+
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I am currently a senior at DePaul University, and plan on graduating in the spring of 2019. I am currently
+      seeking internship opportunities in the U.S. for summer 2019 and/or job opportunities for after my graduation.
 
-      Second paragraph if required.
 
 education:
     - degree: Bachelors of Science in Computer Science
@@ -56,8 +51,7 @@ education:
       details: |
         Concentration in Software Development
 
-          - Bullet point
-          - Bullet point 
+          
 
 
 
@@ -91,8 +85,7 @@ skills:
       - name: Ruby on Rails
         level: 50%
 
-      - name:
-        level: 60%
+
 
 #footer: >
     #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
